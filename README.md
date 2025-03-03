@@ -1,5 +1,7 @@
 # 🧠 NeuroLens
 
+---
+
 ## 🚀 Overview
 **NeuroLens** is a fine-tuned Vision-Language Model (**Llama-3.2-11B-Vision-Instruct**) designed to detect brain tumors from MRI images. By leveraging advanced AI and fine-tuning with **unsloth**, NeuroLens aims to assist medical professionals in early and accurate tumor detection.  
 
@@ -14,12 +16,10 @@
 🔹 **Model**: Llama-3.2-11B-Vision-Instruct  
 🔹 **Fine-tuning Framework**: Unsloth  
 🔹 **Deep Learning**: PyTorch, Hugging Face Transformers  
-🔹 **Data Processing**: OpenCV, NumPy, Pandas  
-🔹 **Deployment**: FastAPI / Flask (optional), Docker  
-🔹 **Visualization**: Matplotlib, Seaborn  
+🔹 **Deployment**: Hugging Face
 
 ## 📌 Usage
-- Upload an **MRI scan** to the model.
+- Upload an **MRI SCAN** to the model.
 - The model will **analyze** the image and predict the presence of a tumor.
 - Results are displayed for better interpretation.
 
