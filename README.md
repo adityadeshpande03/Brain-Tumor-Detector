@@ -1,7 +1,5 @@
 # 🧠 NeuroLens
 
----
-
 ## 🚀 Overview
 **NeuroLens** is a fine-tuned Vision-Language Model (**Llama-3.2-11B-Vision-Instruct**) designed to detect brain tumors from MRI images. By leveraging advanced AI and fine-tuning with **unsloth**, NeuroLens aims to assist medical professionals in early and accurate tumor detection.  
 
